@@ -1,14 +1,14 @@
-👋 Hi, I’m Nikhil Santhosh Jacob A.k.A @codebuilder07
+👋 Hi, I’m Nikhil Santhosh Jacob A.k.A @codebuilder07 
 
-👀 I use data to create solutions for businesses and organizations
+👀 I use data to create solutions for businesses and organizations.
 
-🌱 I'm a Data Engineer Analyst
+🌱 I'm a Data Engineer Analyst.
 
-🤝 I’m looking to collaborate on PYTHON, SQL, EXCEL,  kafka, dbt, snowflake Aws, GCP, Scikit Learn , Tensor Flow and DATA VISUALIZATION PROJECTS Using POWER BI, LOOKER or TABLEAU 
+🤝 I’m looking to collaborate on PYTHON, SQL, EXCEL,  kafka, dbt, snowflake Aws, GCP, Scikit Learn , Tensor Flow and DATA VISUALIZATION PROJECTS Using POWER BI,TABLEAU.
 
-👩‍💻 In my free time, I help other data analysts make sense of their data.
+👩‍💻 In my free time, I write on Medium and plan to start my own youtube channel for budding developers.
 
-🌱 On this GitHub, you'll find a collection of my projects and resources that showcase my skills and my love for data analysis. Let's turn data into knowledge together!
+🌱 On this GitHub, you'll find a collection of my Repositories  and resources that showcase my skills and my love for data engineering and analytics. Use these Repositories to learn rather copy and paste. To recruiters, this is my space where I express my learning into practical projects.
 
 📫 You can reach out to me via LinkedIn(https://www.linkedin.com/in/nikhilsjacob-da/)
 
