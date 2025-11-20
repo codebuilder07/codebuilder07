@@ -1,4 +1,4 @@
-👋 Hi, I’m Nikhil Santhosh Jacob A.k.A @codebuilder07 
+👋 Hi, I’m codebuilder07 , you can call me as Nikk. ohh! you might not have my number. Silly ME, you can shoot me a message to as Nikk.
 
 👀 I use data to create solutions for businesses and organizations.
 
