@@ -6,7 +6,7 @@
 <h1 align="center">
 
 <img 
-src="https://capsule-render.vercel.app/api?type=rounded&color=0:991B1B,34:EF4444,66:F59E0B,82:FACC15,92:7DD3FC,100:F8FAFC&height=220&section=header&text=Hardik%20Arora&fontSize=48&fontColor=ffffff&animation=fadeIn"
+src="https://capsule-render.vercel.app/api?type=rounded&color=0:991B1B,34:EF4444,66:F59E0B,82:FACC15,92:7DD3FC,100:F8FAFC&height=220&section=header&text=Nikhil%20Santhosh%20Jacob&fontSize=48&fontColor=ffffff&animation=fadeIn"
 />
 
 </h1>
