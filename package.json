@@ -5,13 +5,12 @@
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-    "dev": "vite",
-    "preview": "vite preview",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
-    "start": "react-scripts start",
-    "build": "react-scripts build"
-  },
+  "dev": "vite",
+  "predeploy": "npm run build",
+  "deploy": "gh-pages -d dist", 
+  "build": "vite build",
+  "preview": "vite preview"
+},
   "dependencies": {
     "clsx": "2.1.1",
     "react": "^19.3.1",
